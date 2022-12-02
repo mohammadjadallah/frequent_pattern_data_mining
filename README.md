@@ -1,5 +1,4 @@
-## In this project I used a retail data set to find the support using algorithms such as apriori, fpgrowth
-
+### In this data mining project "Frequent Pattern Project", I used a retail data set to find the support using algorithms such as apriori, fpgrowth
 
 #### Sample of the retail data set after encoding using mlxtend module
 
